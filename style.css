@@ -1,0 +1,39 @@
+html,body{
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    margin:auto;
+    padding: 0;
+}
+
+.container{ 
+    height: 95%;
+    width: 95%;
+    margin: 0;
+    margin:auto;
+    border: 2px solid black;
+    border-radius: 5px;  
+}
+.header-text{
+    text-align: center;
+}
+.header-text >h2{
+    font-size: 35px;
+}
+.header-paragraph{
+    color:gray ;
+}
+a:link,a:visited{
+    text-decoration: none;
+    background-color: black;
+    color: white;
+    border: 2px solid black;
+    padding: 8px 12px;
+    text-align: center;
+    border-radius: 10px;
+    margin: 10px;
+}
+a:hover, a:active {
+    background-color: white;
+    color: black;
+  }
