@@ -10,7 +10,7 @@
 html,body{
     height: 100%;
     width: 100%;
-    margin: 0;
+    margin:0;
     margin:auto;
     padding: 0;
 }
@@ -25,6 +25,7 @@ html,body{
     box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
     text-align: center;
     background-color: var(--background-color);
+    margin-top: 30px
 }
 .header-text{
     text-align: center;
